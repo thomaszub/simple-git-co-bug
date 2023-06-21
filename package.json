@@ -1,0 +1,17 @@
+{
+  "name": "simple-git-co-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^3.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}
